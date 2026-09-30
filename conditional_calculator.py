@@ -14,11 +14,11 @@ op=(input("Enter the operation(+,-,*,/): "))
 if op=="+":
     print(N1+N2)
 elif op=="-":
-    print(N1-N2)
+    print(f"
 elif op == "*":
-    print(N1*N2)
+    print(f"{N1}*{N2}={N1*N2}")
 elif op == "/":
-    print(N1/N2)
+    print(f"{N1}/{N2}={N1/N2})
 
 
 

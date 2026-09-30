@@ -9,7 +9,20 @@ print("This calculator will ask the user to input two numbers, then the program 
 
 N1=int(input("please enter the first number: "))
 N2=int(input("Please enter the second number: "))
-print(f"{N1}+{N2}={N1+N2}")
-print(f"{N1}-{N2}={N1-N2}")
-print(f"{N1}*{N2}={N1*N2}")
-print(f"{N1}/{N2}={N1/N2}")
+
+op=(input("Enter the operation(+,-,*,/): "))
+if op=="+":
+    print(N1+N2)
+elif op=="-":
+    print(N1-N2)
+elif op == "-":
+    print(N1*N2)
+elif op == "*":
+    print(N1*N2)
+elif op == "/":
+    print(N1/N2)
+
+
+
+
+
