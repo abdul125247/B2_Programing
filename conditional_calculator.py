@@ -19,8 +19,3 @@ elif op == "*":
     print(f"{N1}*{N2}={N1*N2}")
 elif op == "/":
     print(f"{N1}/{N2}={N1/N2}")
-
-
-
-
-
