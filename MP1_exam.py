@@ -1,10 +1,6 @@
 """
 Merino_Abdul
 
-10/09/2026
-
-Teacher:Burgees
-
 MP1_exam
 """
 #C=(F-32) * 5/9
